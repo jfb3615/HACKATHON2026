@@ -4,13 +4,13 @@ This repository contains a directory structure for the Computational Physics 202
 
 I am encouraging the following distribution of labor (really that's a misnomer, pleasure is what we are actually distributing here.. ) 
 
-Nathan :       The Model
-Shalini:       The Molecular dynamics
-Lucas  :       Markov Chain Monte Carlo
-Youssef:       Post-processing
-Jiaqi  :       Integration (one big program to control the whole workflow) 
-Elian  :       Visualization
-Francis:       Draft of summary report
+* Nathan :       The Model
+* Shalini:       The Molecular dynamics
+* Lucas  :       Markov Chain Monte Carlo
+* Youssef:       Post-processing
+* Jiaqi  :       Integration (one big program to control the whole workflow) 
+* Elias  :       Visualization
+* Francis:       Summary report
 
 On Monday Nov 3 you will find me (project manager) in my office to help with any preparation work you need to. 
 
